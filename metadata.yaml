@@ -1,10 +1,14 @@
 _repo: The-Great-Diamond-Hoax-and-Other-Stirring-Incidents-in-the-Life-of-Asbury-Harpending_48834
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Wilkins, James H.
       gutenberg_agent_id: '44992'
       url: http://www.gutenberg.org/2009/agents/44992
+covers:
+- cover_type: archival
+  image_path: 48834-h/images/ibackcover.jpg
 creator:
   author:
     agent_name: Harpending, Asbury
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44991
     wikipedia: http://en.wikipedia.org/wiki/Asbury_Harpending
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48834#The-Great-Diamond-Hoax-and-Other-Stirring-Incidents-in-the-Life-of-Asbury-Harpending
 gutenberg_issued: '2015-04-30'
 gutenberg_type: Text
 identifiers:
